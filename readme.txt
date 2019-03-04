@@ -1,1 +1,1 @@
-Hello world from Supertramp
+Hello world
